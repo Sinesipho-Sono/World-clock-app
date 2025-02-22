@@ -40,6 +40,7 @@ function updateCity(event) {
     "A"
   )}</small></div>
   </div>
+  <a href="/" class="city-link">Back to default Cities </a>
   `;
 }
 

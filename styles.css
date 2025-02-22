@@ -72,6 +72,16 @@ select option {
   position: relative;
   top: -20px;
 }
+
+.city-link {
+  color: #3a3a39;
+  text-decoration: none;
+  font-weight: 700;
+  font-family: "Poppins", serif;
+  &:hover {
+    text-decoration: underline;
+  }
+}
 footer {
   text-align: center;
   color: white;
