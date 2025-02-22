@@ -79,7 +79,7 @@ footer {
 
 .footer-icons {
   margin: 0 10px;
-  background-color: #e7f3f5;
+  background-color: #e7f3f5a8;
   color: #3a3a39;
   transition: all 100ms ease-in-out;
   padding: 10px 10px;
@@ -87,7 +87,7 @@ footer {
   border-radius: 30px;
 }
 .footer-icons:hover {
-  background-color: #3a3a39;
+  background-color: #3a3a39b6;
   color: white;
 }
 
