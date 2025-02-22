@@ -126,6 +126,14 @@ footer p {
     font-size: 20px;
   }
 }
+@media (max-width: 344px) {
+  .time {
+    font-size: 20px;
+  }
+  .time small {
+    top: -5px;
+  }
+}
 
 @media (min-width: 1100px) {
   .container {
